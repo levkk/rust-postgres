@@ -1,7 +1,7 @@
 [package]
-name = "tokio-postgres"
-version = "0.7.12"
-authors = ["Steven Fackler <sfackler@gmail.com>"]
+name = "tokio-postgres-rwf"
+version = "0.7.13"
+authors = ["Steven Fackler <sfackler@gmail.com>", "Lev Kokotov <lev.kokotov@gmail.com>"]
 edition = "2018"
 license = "MIT OR Apache-2.0"
 description = "A native, asynchronous PostgreSQL client"
